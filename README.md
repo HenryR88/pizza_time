@@ -5,6 +5,4 @@ In Pizza_Time the player controls an eater at the bottom of the screen. The play
 
 The game is programmed in Python using pygame package. I play it in spare time to stop eating junk food :)  The scoring system counts virtual calories consumed with each pizza slice. 
 
-Would be good to get ideas on how to diversify images for food and add interesting features to the game.
-
 I have set the main file pizz_time.py to open in full screen mode when run IDE or terminal, to exit press Q key on keyboard.
