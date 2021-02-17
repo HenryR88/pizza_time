@@ -9,4 +9,4 @@ When I have free time, will work to improve game's features and more information
 
 Would be good to get ideas on how to diversify images for food and add new features to the game.
 
-I have set the main fila pizz_time.py to open in full screen mode when run IDE, to exit press Q key on keyboard.
+I have set the main file pizz_time.py to open in full screen mode when run IDE, to exit press Q key on keyboard.
