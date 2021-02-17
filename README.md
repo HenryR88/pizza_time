@@ -1,2 +1,4 @@
 # pizza_time
-A game to help me while trying to be on a diet :) 
+A quick game programmed in Python using pygame package to play in spare time and stop junk food. The scoring system reminds me of calories consumed with each pizza slice. 
+When I have free time, will work to improve game's features. 
+Would be good to get ideas on how to diversify images for food and add new features to game.
